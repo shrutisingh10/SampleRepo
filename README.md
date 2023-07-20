@@ -1,2 +1,2 @@
 # SampleRepo
-Git session for trainees
+Git session for all new trainees
